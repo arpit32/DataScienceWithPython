@@ -4,7 +4,7 @@ import pandas as pd
 a=[1,2,3,4,5]
 b=[2,3,4,5,6]
 
-mul=np.dot(a,b)
+mul = np.dot(a, b)
 print(mul)
 
 
