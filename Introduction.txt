@@ -1,0 +1,12 @@
+Data science involves principles, processes and techniques for understanding phenomena via the (automated) analysis of data.
+
+Data mining is the extraction of knowledge from data, via technologies that incorporate these principles.
+
+The model emphasizes the iterative nature of the data mining process, distinguishing several different stages that are regularly revisited in the course of developing and deploying data-driven solutions to business problems:
+
+Business understanding
+Data understanding
+Data preparation
+Modeling
+Deployment
+
