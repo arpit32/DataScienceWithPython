@@ -35,8 +35,6 @@ print(single_instance_str[::-1])
 
 print('*', '\tp,k,f,n,f,n,f,c,n,w,e,       ?,k,y\t,w,n,p,w\n,o,e,w,v,d\n'.strip(), '*')
 
-
-
 # Python strings are immutable, i.e., they cannot be modified. Most string methods (like str.strip()) return modified copies of the strings on which they are used.
 
 # Python lists are mutable, i.e., they can be modified
