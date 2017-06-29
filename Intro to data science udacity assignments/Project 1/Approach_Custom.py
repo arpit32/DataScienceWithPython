@@ -66,9 +66,10 @@ for i, coli in enumerate(cols):
         if i <= j:
             features.append([coli, colj])
             # features.append([coli, colj, 'Sex'])
+    print(features)
 features = []
 #x = df[(df['Sex'] == 'male') & (df['Deck'] == 'E') & (df['AgeBucket'] == 'midmid')]
-
+# print(df)
 survivor_threshold = 0.8
 base_threshold = 0
 for f in features:
